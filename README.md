@@ -1,4 +1,4 @@
-# Web Application using Encrpyted Token-Based Authentication
+# Web Application using Token-Based Authentication 
 
 WORK IN PROGRESS
 
