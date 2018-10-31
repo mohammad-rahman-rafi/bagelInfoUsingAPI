@@ -2,7 +2,7 @@
 
 WORK IN PROGRESS
 
-This is a web application that lets a registered user with valid credentials to add and view bagels stored in the database.
+This is a web application that lets a registered user with valid credentials to add and view list of stored in the database.
 
 ### Technologies:
 
