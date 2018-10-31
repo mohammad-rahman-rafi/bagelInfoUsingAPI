@@ -1,4 +1,4 @@
-# Web Application using Authorization and Database
+# Web Application using Authentication
 
 WORK IN PROGRESS
 
